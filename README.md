@@ -23,5 +23,5 @@
 
 ### Статистика GitHub
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?ranetochka14&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranetochka14&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
